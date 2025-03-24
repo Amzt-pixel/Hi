@@ -17,7 +17,7 @@ body {
 
 h1 {
     font-size: 40px; /* Bigger main heading */
-    font-color: #2d5986;
+    color: #2d5986;
     font-weight: bold;
 }
 
@@ -60,20 +60,20 @@ input {
     margin: 12px auto;
     background: #eaf2f8;
     border: 3px solid #bbb;
-    font-color: #34495e;
+    color: #34495e;
     font-size: 26px; /* Bigger option button text */
     border-radius: 8px;
 }
 
 .selected {
     font-weight: bold;
-    font-color: #f9e79f;
+    color: #f9e79f;
     background-color: #3498db !important; 
 }
 
 #timer {
     font-size: 26px; /* Bigger timer */
-    font-color: #e74c3c;
+    color: #e74c3c;
     font-weight: bold;
     margin-bottom: 20px;
 }
