@@ -83,6 +83,9 @@ input {
     font-weight: bold;
     margin-top: 20px;
 }
+#result-container p {
+  margin: 10px 0;
+}
 .correct { color: #2ecc71; }
 .wrong { color: #ff471a; }
 .time { color: #f39c12; }
